@@ -1,6 +1,7 @@
 # dsh-plugin-cadpop
 
 [![DSHIO/T 10](https://deepseekbase.com/badge/std.svg)](https://dshio.org/10/) [![deepseekbase](https://deepseekbase.com/badge/liangjiehappy-dsh-plugin-cadpop.svg)](https://deepseekbase.com/zh/plugins/liangjiehappy-dsh-plugin-cadpop/)
+[![deepseekbase endpoint](https://img.shields.io/endpoint?url=https%3A%2F%2Fdeepseekbase.com%2Fbadge%2Fliangjiehappy-dsh-plugin-cadpop.json&style=flat-square)](https://deepseekbase.com/zh/plugins/liangjiehappy-dsh-plugin-cadpop/)
 
 Repository: https://github.com/moldkey/dsh-plugin-cadpop
 
