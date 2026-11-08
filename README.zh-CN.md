@@ -1,10 +1,19 @@
 # dsh-plugin-cadpop
 
+[![DSHIO/T 10](https://img.shields.io/badge/DSHIO%2FT%2010-conformance-blue)](https://dshio.org/standards/10/)
+[![DSH sandbox](https://img.shields.io/badge/DSH-sandbox%20passed-brightgreen)](https://deepseekbase.com/ecosystem/plugin-tests/)
 Repository: https://github.com/moldkey/dsh-plugin-cadpop
 
 CADPOP（cadpop.com）只读入口插件：参数化模板清单、帮助中心、DFM 入口、在线编辑器、图纸工具页。
 
 English docs: [README.md](README.md).
+
+
+## 标准与测试
+
+- **DSHIO/T 10—2026**（DSH 插件标准）：已按条款自检通过 —— `dsh.bundle.patch`、patch 结构、`engines.dsh` 只写下限、工具契约、权限声明（仅 `network`）、无红线权限组合。
+- **DSH 沙箱**：已通过 deepseekbase.com 的 install / list / mount / boot 四阶段测试（DSH 0.2.2-rc.1）。
+- 这是符合性声明，不是认证：DSHIO/T 32 认证尚未启用。
 
 ## 工具
 
