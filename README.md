@@ -1,5 +1,7 @@
 # dsh-plugin-cadpop
 
+Repository: https://github.com/moldkey/dsh-plugin-cadpop
+
 Read-only CADPOP entry tools for DeepSeek Harness: parametric templates, help center, DFM entry, online editor, and drawing tools.
 
 中文说明见 [README.zh-CN.md](README.zh-CN.md).

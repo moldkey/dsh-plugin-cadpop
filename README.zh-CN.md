@@ -1,5 +1,7 @@
 # dsh-plugin-cadpop
 
+Repository: https://github.com/moldkey/dsh-plugin-cadpop
+
 CADPOP（cadpop.com）只读入口插件：参数化模板清单、帮助中心、DFM 入口、在线编辑器、图纸工具页。
 
 English docs: [README.md](README.md).
