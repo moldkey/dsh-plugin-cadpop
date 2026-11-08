@@ -1,6 +1,6 @@
 {
   "name": "@liangjiehappy/dsh-plugin-cadpop",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "description": "CADPOP 在线 CAD 工具入口：模板清单、帮助中心、DFM 制造分析、编辑器与图纸工具页。只访问 cadpop.com。",
   "type": "module",
   "main": "lib/index.js",
