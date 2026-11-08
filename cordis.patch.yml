@@ -1,0 +1,5 @@
+- insert:
+    - id: dsh-plugin-cadpop
+      name: "@liangjiehappy/dsh-plugin-cadpop"
+      config:
+        baseUrl: "https://cadpop.com"
